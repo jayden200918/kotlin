@@ -1,4 +1,4 @@
-package `8_estructura_repetitiva_dowhile`
+package `8_`
 
 /*
 Realizar un programa que acumule (sume) valores ingresados por
