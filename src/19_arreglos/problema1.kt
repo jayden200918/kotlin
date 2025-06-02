@@ -9,7 +9,7 @@ Cantidad de valores mayores a 50.
 
  */
 fun main() {
-    val numeros = IntArray(8)
+    val numeros= IntArray(8)
     for (i in 0 until numeros.size) {
         print("Ingrese elemento : ")
         numeros[i] = readln().toInt()
