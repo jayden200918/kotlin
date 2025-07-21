@@ -1,4 +1,4 @@
-package `22_POO_Costructor`
+package `22_POO_Costructor1`
 
 class Persona2 constructor(nombre: String,edad: Int){
 

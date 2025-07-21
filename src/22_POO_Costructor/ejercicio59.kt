@@ -1,4 +1,4 @@
-package `22_POO_Costructor`
+package `22_POO_Costructor4`
 
 
 class triangulo2 (var lado1:Int,var lado2:Int,var lado3:Int, ){
