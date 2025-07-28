@@ -31,7 +31,7 @@ class Persona2 constructor(nombre: String,edad: Int){
 
 fun main() {
 
-    val persona5 = Persona("juan" , 12)
+    val persona5 = Persona2 ("juan" , 12)
     persona5.imprimir11()
     persona5.esMayorEdad1()
 }

@@ -1,5 +1,7 @@
 package `22_POO_Costructor2`
 
+import `22_POO_Costructor1`.Persona2
+
 class Persona3 constructor(var nombre: String, var edad: Int){
 
     init{
@@ -32,7 +34,7 @@ class Persona3 constructor(var nombre: String, var edad: Int){
 
 fun main() {
 
-    val persona5 = Persona("juan" , 12)
-    persona5.imprimir11()
-    persona5.esMayorEdad1()
+    val persona5 = Persona3("juan" , 12)
+    persona5.imprimir111()
+    persona5.esMayorEdad11()
 }
