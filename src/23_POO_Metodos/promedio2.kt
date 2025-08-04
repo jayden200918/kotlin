@@ -23,8 +23,6 @@ class temperaturas {
         temp6 = readln().toInt()
         print("Ingrese la temperatura del dia 7: ")
         temp7 = readln().toInt()
-        mostrarMaxima()
-        mostrarMinima()
 
         fun mostrarMaxima() {
             if (temp1 > temp2 && temp1 > temp3 && temp1 > temp4 && temp1 > temp5 && temp1 > temp6 && temp1 > temp7)
